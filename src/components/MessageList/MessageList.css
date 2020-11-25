@@ -1,0 +1,8 @@
+.messageList {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 0;
+  margin: auto 0 0;
+  list-style: none;
+}
